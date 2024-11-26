@@ -50,3 +50,10 @@ dotnet run
 ```
 
 **kết quả như trong video trong thư mục _video output demo_**
+
+bonus: 
+link file prototxt:
+[samples/dnn/face_detector/deploy.prototxt](https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/deploy.prototxt)
+
+link file 
+[res10_300x300_ssd_iter_140000.caffemodel](https://github.com/opencv/opencv_3rdparty/blob/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel)
