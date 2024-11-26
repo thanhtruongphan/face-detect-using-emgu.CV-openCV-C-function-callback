@@ -1,1 +1,0 @@
-# face-detect-using-emgu.CV-openCV-C-function-callback
